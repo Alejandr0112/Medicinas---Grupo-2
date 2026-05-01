@@ -1,0 +1,12 @@
+echo "========================================" > LEEME.txt
+echo "CARPETA: diagramaER/Douglas" >> LEEME.txt
+echo "AUTOR: Douglas - Integrante 4" >> LEEME.txt
+echo "MODULO: Arquitecto de Datos" >> LEEME.txt
+echo "========================================" >> LEEME.txt
+echo " " >> LEEME.txt
+echo "CONTENIDO:" >> LEEME.txt
+echo "1. diagrama_er_medicitas.png - Imagen del diagrama Entidad-Relacion" >> LEEME.txt
+echo "2. medicitas_schema.sql - Script completo de creacion de BD" >> LEEME.txt
+echo "3. relaciones.txt - Descripcion de relaciones entre tablas" >> LEEME.txt
+echo " " >> LEEME.txt
+echo "FECHA: $(Get-Date -Format 'dd/MM/yyyy')" >> LEEME.txt
